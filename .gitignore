@@ -1,0 +1,12 @@
+# Node (React)
+node_modules/
+npm-debug.log
+
+# .NET (C#)
+bin/
+obj/
+*.user
+*.suo
+
+# Environment variables
+.env
